@@ -1,0 +1,13 @@
+{
+    "message":[
+        {
+            "id":0,
+            "title":"华为 p40",
+            "add_time":"2019-12-09",
+            "sell_price": "2100",
+            "market_price": "2499",
+            "goods_no":"SD123546",
+            "stock_quantity":"20"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+.news-content img {
+    width: 100%;
+}
+/* .tmpl {
+    margin-bottom: 55px;
+} */
+.photo-image .my-gallery {
+    padding: 0 5px;
+    width: 100vw;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    display: flex;
+    box-sizing: border-box;
+}
+.photo-image img{
+    width: 7rem;
+    height: 7rem;
+}
+.all-layout{
+    height: calc(100vh - 140px);
+    overflow-y: auto;
+  }

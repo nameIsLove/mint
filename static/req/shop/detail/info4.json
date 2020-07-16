@@ -1,0 +1,13 @@
+{
+    "message":[
+        {
+            "id":0,
+            "title":"小龙虾",
+            "add_time":"2019-12-09",
+            "sell_price": "210",
+            "market_price": "249",
+            "goods_no":"SD123546",
+            "stock_quantity":"20"
+        }
+    ]
+}

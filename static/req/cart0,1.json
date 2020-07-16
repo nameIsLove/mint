@@ -1,0 +1,18 @@
+{
+    "message":[
+        {
+            "cou":1,
+            "id": 0,
+            "title":"小米8",
+            "sell_price":2100,
+            "thumb_path":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3647816124,3649968145&fm=26&gp=0.jpg"
+        },
+        {
+            "cou":1,
+            "id": 1,
+            "title":"华为p40",
+            "sell_price":2300,
+            "thumb_path":"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3037448685,1767286897&fm=26&gp=0.jpg"
+        }
+    ]
+}
